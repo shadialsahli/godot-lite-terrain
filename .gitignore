@@ -1,0 +1,7 @@
+.godot/
+*.import
+*.tmp
+.DS_Store
+Thumbs.db
+export.cfg
+export_credentials.cfg

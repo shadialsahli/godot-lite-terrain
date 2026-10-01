@@ -1,0 +1,5 @@
+* text=auto eol=lf
+/docs export-ignore
+/STORE_TEXT.md export-ignore
+/.gitignore export-ignore
+/.gitattributes export-ignore
